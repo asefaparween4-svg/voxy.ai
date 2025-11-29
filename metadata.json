@@ -1,0 +1,8 @@
+{
+  "name": "Copy of voxi.nvai",
+  "description": "A conversational AI assistant for business and education research with real-time audio interaction and visual data projections.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
